@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+let number = Int(readLine()!)!
+let numbers = readLine()!.split(separator: " ").map { Int(String($0))! }
