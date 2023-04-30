@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		1A90666B29FEBB90007D113C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90666A29FEBB90007D113C /* main.swift */; };
+		1A90667929FEC609007D113C /* sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90667829FEC609007D113C /* sample.swift */; };
+		1A90667B29FEC640007D113C /* abc086.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90667A29FEC640007D113C /* abc086.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		1A90666729FEBB90007D113C /* AtCoder */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoder; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A90666A29FEBB90007D113C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1A90667829FEC609007D113C /* sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sample.swift; sourceTree = "<group>"; };
+		1A90667A29FEC640007D113C /* abc086.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = abc086.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +61,19 @@
 		1A90666929FEBB90007D113C /* AtCoder */ = {
 			isa = PBXGroup;
 			children = (
+				1A90667629FEC3DD007D113C /* A */,
 				1A90666A29FEBB90007D113C /* main.swift */,
+				1A90667829FEC609007D113C /* sample.swift */,
 			);
 			path = AtCoder;
+			sourceTree = "<group>";
+		};
+		1A90667629FEC3DD007D113C /* A */ = {
+			isa = PBXGroup;
+			children = (
+				1A90667A29FEC640007D113C /* abc086.swift */,
+			);
+			path = A;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,6 +135,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A90666B29FEBB90007D113C /* main.swift in Sources */,
+				1A90667929FEC609007D113C /* sample.swift in Sources */,
+				1A90667B29FEC640007D113C /* abc086.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
