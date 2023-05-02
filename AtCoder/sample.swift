@@ -7,3 +7,6 @@
 
 let number = Int(readLine()!)!
 let numbers = readLine()!.split(separator: " ").map { Int(String($0))! }
+
+// 文字列置換
+// S.replacingOccurrences(of: "dream", with: ",")
