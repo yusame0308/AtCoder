@@ -19,6 +19,7 @@
 		1A9066922A00D486007D113C /* ABC085-C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9066912A00D486007D113C /* ABC085-C.swift */; };
 		1A9066942A00E681007D113C /* ABC049-C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9066932A00E681007D113C /* ABC049-C.swift */; };
 		1A9066962A01730A007D113C /* ABC086-C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9066952A017309007D113C /* ABC086-C.swift */; };
+		1A9066982A02ABB8007D113C /* ABC047-C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9066972A02ABB8007D113C /* ABC047-C.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		1A9066912A00D486007D113C /* ABC085-C.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC085-C.swift"; sourceTree = "<group>"; };
 		1A9066932A00E681007D113C /* ABC049-C.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC049-C.swift"; sourceTree = "<group>"; };
 		1A9066952A017309007D113C /* ABC086-C.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC086-C.swift"; sourceTree = "<group>"; };
+		1A9066972A02ABB8007D113C /* ABC047-C.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC047-C.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				1A9066912A00D486007D113C /* ABC085-C.swift */,
 				1A9066932A00E681007D113C /* ABC049-C.swift */,
 				1A9066952A017309007D113C /* ABC086-C.swift */,
+				1A9066972A02ABB8007D113C /* ABC047-C.swift */,
 			);
 			path = C;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				1A9066922A00D486007D113C /* ABC085-C.swift in Sources */,
 				1A90666B29FEBB90007D113C /* main.swift in Sources */,
 				1A90668B29FF7429007D113C /* ABC083-B.swift in Sources */,
+				1A9066982A02ABB8007D113C /* ABC047-C.swift in Sources */,
 				1A90667929FEC609007D113C /* sample.swift in Sources */,
 				1A9066942A00E681007D113C /* ABC049-C.swift in Sources */,
 				1A90668F2A00D07B007D113C /* ABC085-B.swift in Sources */,
