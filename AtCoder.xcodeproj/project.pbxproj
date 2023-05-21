@@ -14,6 +14,8 @@
 		1A51D4902A18F0C200A7366F /* ABC302-A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A51D48F2A18F0C200A7366F /* ABC302-A.swift */; };
 		1A51D4922A18F41300A7366F /* ABC302-B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A51D4912A18F41300A7366F /* ABC302-B.swift */; };
 		1A51D4942A19012200A7366F /* ABC302-C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A51D4932A19012200A7366F /* ABC302-C.swift */; };
+		1A51D4962A199BF200A7366F /* private2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A51D4952A199BF200A7366F /* private2.swift */; };
+		1A51D4982A1A007B00A7366F /* private3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A51D4972A1A007B00A7366F /* private3.swift */; };
 		1A90666B29FEBB90007D113C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90666A29FEBB90007D113C /* main.swift */; };
 		1A90667929FEC609007D113C /* sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90667829FEC609007D113C /* sample.swift */; };
 		1A90667B29FEC640007D113C /* ABC086-A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90667A29FEC640007D113C /* ABC086-A.swift */; };
@@ -50,6 +52,8 @@
 		1A51D48F2A18F0C200A7366F /* ABC302-A.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC302-A.swift"; sourceTree = "<group>"; };
 		1A51D4912A18F41300A7366F /* ABC302-B.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC302-B.swift"; sourceTree = "<group>"; };
 		1A51D4932A19012200A7366F /* ABC302-C.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC302-C.swift"; sourceTree = "<group>"; };
+		1A51D4952A199BF200A7366F /* private2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private2.swift; sourceTree = "<group>"; };
+		1A51D4972A1A007B00A7366F /* private3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private3.swift; sourceTree = "<group>"; };
 		1A90666729FEBB90007D113C /* AtCoder */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoder; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A90666A29FEBB90007D113C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1A90667829FEC609007D113C /* sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sample.swift; sourceTree = "<group>"; };
@@ -82,6 +86,8 @@
 			isa = PBXGroup;
 			children = (
 				1A51D4852A171CDC00A7366F /* DeNA.swift */,
+				1A51D4952A199BF200A7366F /* private2.swift */,
+				1A51D4972A1A007B00A7366F /* private3.swift */,
 			);
 			path = private;
 			sourceTree = "<group>";
@@ -236,10 +242,12 @@
 				1A90667B29FEC640007D113C /* ABC086-A.swift in Sources */,
 				1A9066962A01730A007D113C /* ABC086-C.swift in Sources */,
 				1A51D4922A18F41300A7366F /* ABC302-B.swift in Sources */,
+				1A51D4982A1A007B00A7366F /* private3.swift in Sources */,
 				1A90669B2A02B147007D113C /* ABC047-D.swift in Sources */,
 				1A51D4942A19012200A7366F /* ABC302-C.swift in Sources */,
 				1A061A652A0FB3F50092DA1C /* ABC301-A.swift in Sources */,
 				1A90668D2A00BAA0007D113C /* ABC088-B.swift in Sources */,
+				1A51D4962A199BF200A7366F /* private2.swift in Sources */,
 				1A90668929FED905007D113C /* ABC087-B.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
