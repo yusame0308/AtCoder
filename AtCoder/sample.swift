@@ -13,3 +13,6 @@ let numbers = readLine()!.split(separator: " ").map { Int(String($0))! }
 
 // 数値配列を1行の文字列に結合
 // answer.map { String($0) }.joined(separator: " ")
+
+// 重複しない配列
+// var nums = Set<Int>()
