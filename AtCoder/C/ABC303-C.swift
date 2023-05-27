@@ -5,7 +5,8 @@
 //  Created by 小原宙 on 2023/05/27.
 //
 
-func main() {
+// 解けていない
+private func _main() {
     let numbers = readLine()!.split(separator: " ").map { Int(String($0))! }
     let moveCount = numbers[0]
     let itemCount = numbers[1]
