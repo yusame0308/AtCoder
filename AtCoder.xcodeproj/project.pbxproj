@@ -33,6 +33,7 @@
 		1AE123DF2A22293700513218 /* ABC303-A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123DE2A22293700513218 /* ABC303-A.swift */; };
 		1AE123E12A222D4200513218 /* ABC303-B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123E02A222D4200513218 /* ABC303-B.swift */; };
 		1AE123E32A2231CE00513218 /* ABC303-C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123E22A2231CE00513218 /* ABC303-C.swift */; };
+		1AE123E52A2332BB00513218 /* private4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123E42A2332BB00513218 /* private4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -75,6 +76,7 @@
 		1AE123DE2A22293700513218 /* ABC303-A.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC303-A.swift"; sourceTree = "<group>"; };
 		1AE123E02A222D4200513218 /* ABC303-B.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC303-B.swift"; sourceTree = "<group>"; };
 		1AE123E22A2231CE00513218 /* ABC303-C.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC303-C.swift"; sourceTree = "<group>"; };
+		1AE123E42A2332BB00513218 /* private4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				1A51D4852A171CDC00A7366F /* private1.swift */,
 				1A51D4952A199BF200A7366F /* private2.swift */,
 				1A51D4972A1A007B00A7366F /* private3.swift */,
+				1AE123E42A2332BB00513218 /* private4.swift */,
 			);
 			path = private;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				1A90668D2A00BAA0007D113C /* ABC088-B.swift in Sources */,
 				1A51D4962A199BF200A7366F /* private2.swift in Sources */,
 				1A90668929FED905007D113C /* ABC087-B.swift in Sources */,
+				1AE123E52A2332BB00513218 /* private4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

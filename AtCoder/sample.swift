@@ -16,3 +16,12 @@ let numbers = readLine()!.split(separator: " ").map { Int(String($0))! }
 
 // 重複しない配列
 // var nums = Set<Int>()
+
+// 重複した数値を取り出す
+// var set = Set<Int>()
+// for i in 0..<n {
+//    if !set.insert(numbers[i]).inserted {
+//        print(i+1)
+//        return
+//    }
+// }
