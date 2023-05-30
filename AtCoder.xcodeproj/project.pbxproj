@@ -34,6 +34,7 @@
 		1AE123E12A222D4200513218 /* ABC303-B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123E02A222D4200513218 /* ABC303-B.swift */; };
 		1AE123E32A2231CE00513218 /* ABC303-C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123E22A2231CE00513218 /* ABC303-C.swift */; };
 		1AE123E52A2332BB00513218 /* private4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123E42A2332BB00513218 /* private4.swift */; };
+		1AE123E72A25905C00513218 /* private5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE123E62A25905C00513218 /* private5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -77,6 +78,7 @@
 		1AE123E02A222D4200513218 /* ABC303-B.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC303-B.swift"; sourceTree = "<group>"; };
 		1AE123E22A2231CE00513218 /* ABC303-C.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ABC303-C.swift"; sourceTree = "<group>"; };
 		1AE123E42A2332BB00513218 /* private4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private4.swift; sourceTree = "<group>"; };
+		1AE123E62A25905C00513218 /* private5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				1A51D4952A199BF200A7366F /* private2.swift */,
 				1A51D4972A1A007B00A7366F /* private3.swift */,
 				1AE123E42A2332BB00513218 /* private4.swift */,
+				1AE123E62A25905C00513218 /* private5.swift */,
 			);
 			path = private;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				1A061A672A0FB6EE0092DA1C /* ABC301-B.swift in Sources */,
 				1A90668B29FF7429007D113C /* ABC083-B.swift in Sources */,
 				1A9066982A02ABB8007D113C /* ABC047-C.swift in Sources */,
+				1AE123E72A25905C00513218 /* private5.swift in Sources */,
 				1A51D4902A18F0C200A7366F /* ABC302-A.swift in Sources */,
 				1A90667929FEC609007D113C /* sample.swift in Sources */,
 				1A9066942A00E681007D113C /* ABC049-C.swift in Sources */,
