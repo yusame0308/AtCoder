@@ -19,6 +19,7 @@
 		1A5943392A29C0E80000E1F8 /* private6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5943382A29C0E80000E1F8 /* private6.swift */; };
 		1A59433B2A29D87B0000E1F8 /* private7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A59433A2A29D87B0000E1F8 /* private7.swift */; };
 		1A59433D2A29DFF30000E1F8 /* private8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A59433C2A29DFF30000E1F8 /* private8.swift */; };
+		1A59433F2A29EF470000E1F8 /* private9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A59433E2A29EF470000E1F8 /* private9.swift */; };
 		1A90666B29FEBB90007D113C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90666A29FEBB90007D113C /* main.swift */; };
 		1A90667929FEC609007D113C /* sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90667829FEC609007D113C /* sample.swift */; };
 		1A90667B29FEC640007D113C /* ABC086-A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A90667A29FEC640007D113C /* ABC086-A.swift */; };
@@ -65,6 +66,7 @@
 		1A5943382A29C0E80000E1F8 /* private6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private6.swift; sourceTree = "<group>"; };
 		1A59433A2A29D87B0000E1F8 /* private7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private7.swift; sourceTree = "<group>"; };
 		1A59433C2A29DFF30000E1F8 /* private8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private8.swift; sourceTree = "<group>"; };
+		1A59433E2A29EF470000E1F8 /* private9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = private9.swift; sourceTree = "<group>"; };
 		1A90666729FEBB90007D113C /* AtCoder */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoder; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A90666A29FEBB90007D113C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1A90667829FEC609007D113C /* sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sample.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				1A5943382A29C0E80000E1F8 /* private6.swift */,
 				1A59433A2A29D87B0000E1F8 /* private7.swift */,
 				1A59433C2A29DFF30000E1F8 /* private8.swift */,
+				1A59433E2A29EF470000E1F8 /* private9.swift */,
 			);
 			path = private;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				1A90668D2A00BAA0007D113C /* ABC088-B.swift in Sources */,
 				1A51D4962A199BF200A7366F /* private2.swift in Sources */,
 				1A90668929FED905007D113C /* ABC087-B.swift in Sources */,
+				1A59433F2A29EF470000E1F8 /* private9.swift in Sources */,
 				1AE123E52A2332BB00513218 /* private4.swift in Sources */,
 				1A59433B2A29D87B0000E1F8 /* private7.swift in Sources */,
 			);
