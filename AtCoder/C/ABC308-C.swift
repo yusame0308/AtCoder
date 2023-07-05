@@ -5,7 +5,7 @@
 //  Created by 小原宙 on 2023/07/01.
 //
 
-func main() {
+private func _main() {
     let n = Int(readLine()!)!
 
     var groups = [Int: [(index: Int, prob: Double)]]()
