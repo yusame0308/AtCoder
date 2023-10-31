@@ -25,3 +25,11 @@
 //        return
 //    }
 // }
+
+// 配列から辞書型を生成
+// let array: [String] = ["a", "b", "c", "d"]
+// let dictionary: [String: [Int]] = Dictionary(uniqueKeysWithValues: array.map({ s in
+//     (s, [])
+// }))
+// or
+// let dictionary: [String: [Int]] = Dictionary(uniqueKeysWithValues: zip(array, repeatElement([], count: array.count)))
